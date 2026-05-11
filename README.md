@@ -4,24 +4,6 @@ Site institucional artesanal para a **Cucas Beth**, negócio de cucas artesanais
 
 ---
 
-## 📁 Estrutura do projeto
-
-```
-cucasbeth/
-├── index.html          ← Página principal
-├── css/
-│   └── style.css       ← Todos os estilos
-├── js/
-│   └── main.js         ← Interações (scroll, animações, nav)
-├── assets/             ← Imagens, logos, favicon
-│   ├── logo.png        ← (adicionar)
-│   ├── logo-dark.png   ← (adicionar)
-│   └── favicon.ico     ← (adicionar)
-└── README.md
-```
-
----
-
 ## 🚀 Como usar no VS Code
 
 1. Abra a pasta `cucasbeth/` no VS Code
@@ -59,25 +41,9 @@ Todas as cores estão como variáveis CSS no topo de `css/style.css`:
   /* ... */
 }
 ```
+ 
 
----
-
-## 📦 Deploy gratuito (recomendado: Netlify)
-
-1. Acesse [netlify.com](https://netlify.com) e crie uma conta
-2. Arraste a pasta `cucasbeth/` direto na interface do Netlify
-3. Pronto! O site estará online em segundos com URL gratuita
-
-Ou via GitHub:
-```bash
-git init
-git add .
-git commit -m "feat: landing page Cucas Beth"
-# Conecte ao GitHub e configure Netlify para deploy automático
-```
-
----
-
+ 
 ## 📱 Funcionalidades
 
 - ✅ Navegação fixa com scroll suave
