@@ -61,8 +61,4 @@ Todas as cores estão como variáveis CSS no topo de `css/style.css`:
 ---
 
 ## 📞 Contato da Dona Bete
-
-- **WhatsApp:** (51) 98579-4939
 - **Instagram:** @cucasbeth
-- **PIX:** 51 985794939
-- **Localização:** Porto Alegre – RS
