@@ -231,10 +231,10 @@ nav.scrolled {
   height: 220px;
   border-radius: 100%;
   border: 3px solid rgba(255, 255, 255, 0.2);
-  margin-bottom: 36px;
+  margin-bottom: 10px;
   overflow: hidden;
   animation: fadeUp .8s .1s ease both;
-  background: var(--rosa);
+  background: var(--creme-mid);
   display: flex;
   align-items: center;
   justify-content: center;
